@@ -3,8 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GrokkingTheJavaDevInterview.iml" filepath="$PROJECT_DIR$/GrokkingTheJavaDevInterview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P0010_ExceptionPropagationExample/P0010_ExceptionPropagationExample.iml" filepath="$PROJECT_DIR$/P0010_ExceptionPropagationExample/P0010_ExceptionPropagationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0010_UncheckedExceptionPropagationExample/P0010_UncheckedExceptionPropagationExample.iml" filepath="$PROJECT_DIR$/P0010_UncheckedExceptionPropagationExample/P0010_UncheckedExceptionPropagationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0011_CheckedExceptionsAreNotPropagated/P0011_CheckedExceptionsAreNotPropagated.iml" filepath="$PROJECT_DIR$/P0011_CheckedExceptionsAreNotPropagated/P0011_CheckedExceptionsAreNotPropagated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0012_UncheckedExceptionsAreByDefaultPropagated/P0012_UncheckedExceptionsAreByDefaultPropagated.iml" filepath="$PROJECT_DIR$/P0012_UncheckedExceptionsAreByDefaultPropagated/P0012_UncheckedExceptionsAreByDefaultPropagated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0013_ParentNoExceptionChildHasUncheckedException/P0013_ParentNoExceptionChildHasUncheckedException.iml" filepath="$PROJECT_DIR$/P0013_ParentNoExceptionChildHasUncheckedException/P0013_ParentNoExceptionChildHasUncheckedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0014_ChildCannotThrowCheckedExceptionIfParentDoesnt/P0014_ChildCannotThrowCheckedExceptionIfParentDoesnt.iml" filepath="$PROJECT_DIR$/P0014_ChildCannotThrowCheckedExceptionIfParentDoesnt/P0014_ChildCannotThrowCheckedExceptionIfParentDoesnt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0015_ChildCannotThrowBroaderCheckedExThanParent/P0015_ChildCannotThrowBroaderCheckedExThanParent.iml" filepath="$PROJECT_DIR$/P0015_ChildCannotThrowBroaderCheckedExThanParent/P0015_ChildCannotThrowBroaderCheckedExThanParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0016_ChildCanThrowSameCheckedExAsParent/P0016_ChildCanThrowSameCheckedExAsParent.iml" filepath="$PROJECT_DIR$/P0016_ChildCanThrowSameCheckedExAsParent/P0016_ChildCanThrowSameCheckedExAsParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0017_ChildNeedNotThrowExIfParentThrowsCheckedEx/P0017_ChildNeedNotThrowExIfParentThrowsCheckedEx.iml" filepath="$PROJECT_DIR$/P0017_ChildNeedNotThrowExIfParentThrowsCheckedEx/P0017_ChildNeedNotThrowExIfParentThrowsCheckedEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0018_ChildCanThrowNarrowerCheckedException/P0018_ChildCanThrowNarrowerCheckedException.iml" filepath="$PROJECT_DIR$/P0018_ChildCanThrowNarrowerCheckedException/P0018_ChildCanThrowNarrowerCheckedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0019_UnreachableCodeExamples/P0019_UnreachableCodeExamples.iml" filepath="$PROJECT_DIR$/P0019_UnreachableCodeExamples/P0019_UnreachableCodeExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/P001_AbstractClassExample/P001_AbstractClassExample.iml" filepath="$PROJECT_DIR$/P001_AbstractClassExample/P001_AbstractClassExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0020_CreatingCustomCheckedException/P0020_CreatingCustomCheckedException.iml" filepath="$PROJECT_DIR$/P0020_CreatingCustomCheckedException/P0020_CreatingCustomCheckedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0021_CreateCustomUncheckedException/P0021_CreateCustomUncheckedException.iml" filepath="$PROJECT_DIR$/P0021_CreateCustomUncheckedException/P0021_CreateCustomUncheckedException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0023_TryCatchFinallyPuzzle/P0023_TryCatchFinallyPuzzle.iml" filepath="$PROJECT_DIR$/P0023_TryCatchFinallyPuzzle/P0023_TryCatchFinallyPuzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0024_TryWithResources/P0024_TryWithResources.iml" filepath="$PROJECT_DIR$/P0024_TryWithResources/P0024_TryWithResources.iml" />
       <module fileurl="file://$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" filepath="$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" filepath="$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" />
@@ -13,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/P007_WriteTryBlockWithoutCatchEx/P007_WriteTryBlockWithoutCatchEx.iml" filepath="$PROJECT_DIR$/P007_WriteTryBlockWithoutCatchEx/P007_WriteTryBlockWithoutCatchEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" filepath="$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" filepath="$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P022_ExceptionFromFinallyTakesPrecedence/P022_ExceptionFromFinallyTakesPrecedence.iml" filepath="$PROJECT_DIR$/P022_ExceptionFromFinallyTakesPrecedence/P022_ExceptionFromFinallyTakesPrecedence.iml" />
     </modules>
   </component>
 </project>
