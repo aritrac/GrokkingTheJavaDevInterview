@@ -3,6 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GrokkingTheJavaDevInterview.iml" filepath="$PROJECT_DIR$/GrokkingTheJavaDevInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0010_ExceptionPropagationExample/P0010_ExceptionPropagationExample.iml" filepath="$PROJECT_DIR$/P0010_ExceptionPropagationExample/P0010_ExceptionPropagationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P001_AbstractClassExample/P001_AbstractClassExample.iml" filepath="$PROJECT_DIR$/P001_AbstractClassExample/P001_AbstractClassExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" filepath="$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" filepath="$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P005_UsingStaticMethodsInInterfaces/P005_UsingStaticMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P005_UsingStaticMethodsInInterfaces/P005_UsingStaticMethodsInInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P006_RuntimeExceptionHandlingExample/P006_RuntimeExceptionHandlingExample.iml" filepath="$PROJECT_DIR$/P006_RuntimeExceptionHandlingExample/P006_RuntimeExceptionHandlingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P007_WriteTryBlockWithoutCatchEx/P007_WriteTryBlockWithoutCatchEx.iml" filepath="$PROJECT_DIR$/P007_WriteTryBlockWithoutCatchEx/P007_WriteTryBlockWithoutCatchEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" filepath="$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" filepath="$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" />
     </modules>
   </component>
 </project>
