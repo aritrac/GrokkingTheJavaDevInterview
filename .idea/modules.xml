@@ -18,6 +18,10 @@
       <module fileurl="file://$PROJECT_DIR$/P0021_CreateCustomUncheckedException/P0021_CreateCustomUncheckedException.iml" filepath="$PROJECT_DIR$/P0021_CreateCustomUncheckedException/P0021_CreateCustomUncheckedException.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0023_TryCatchFinallyPuzzle/P0023_TryCatchFinallyPuzzle.iml" filepath="$PROJECT_DIR$/P0023_TryCatchFinallyPuzzle/P0023_TryCatchFinallyPuzzle.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0024_TryWithResources/P0024_TryWithResources.iml" filepath="$PROJECT_DIR$/P0024_TryWithResources/P0024_TryWithResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0025_StringEqualsMethod/P0025_StringEqualsMethod.iml" filepath="$PROJECT_DIR$/P0025_StringEqualsMethod/P0025_StringEqualsMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0026_StringBufferAndStringBuilder/P0026_StringBufferAndStringBuilder.iml" filepath="$PROJECT_DIR$/P0026_StringBufferAndStringBuilder/P0026_StringBufferAndStringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0027_EqualsAndHashCodeExamples/P0027_EqualsAndHashCodeExamples.iml" filepath="$PROJECT_DIR$/P0027_EqualsAndHashCodeExamples/P0027_EqualsAndHashCodeExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0028_WhatAreMarkerInterfaces/P0028_WhatAreMarkerInterfaces.iml" filepath="$PROJECT_DIR$/P0028_WhatAreMarkerInterfaces/P0028_WhatAreMarkerInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" filepath="$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" filepath="$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" />
