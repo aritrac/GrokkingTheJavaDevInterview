@@ -1,7 +1,7 @@
 public class EqualsAndHashCode {
 
     /*
-    If two objects are equals according to equals() method, then their hashcode must be same but reverse is not true
+    If two objects are equal according to equals() method, then their hashcode must be same but reverse is not true
     i.e. if two objects have same hashcode then they may/may not be equals.
      */
     public static void main(String[] args) {

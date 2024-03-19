@@ -29,5 +29,4 @@ class CloneSupport implements Cloneable{
 }
 
 class SerializableSupport implements Serializable{
-
 }

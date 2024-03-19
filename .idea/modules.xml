@@ -25,6 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/P0029_ComparableAndComparator/P0029_ComparableAndComparator.iml" filepath="$PROJECT_DIR$/P0029_ComparableAndComparator/P0029_ComparableAndComparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" filepath="$PROJECT_DIR$/P002_AbstractClassConstructor/P002_AbstractClassConstructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0030_DifferentObjectClassMethods/P0030_DifferentObjectClassMethods.iml" filepath="$PROJECT_DIR$/P0030_DifferentObjectClassMethods/P0030_DifferentObjectClassMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0031_AutoboxingAndUnboxing/P0031_AutoboxingAndUnboxing.iml" filepath="$PROJECT_DIR$/P0031_AutoboxingAndUnboxing/P0031_AutoboxingAndUnboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0032_SwitchDoesntWorkWithLong/P0032_SwitchDoesntWorkWithLong.iml" filepath="$PROJECT_DIR$/P0032_SwitchDoesntWorkWithLong/P0032_SwitchDoesntWorkWithLong.iml" />
       <module fileurl="file://$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" filepath="$PROJECT_DIR$/P003_AbstractClassConstructor-Ex-2/P003_AbstractClassConstructor-Ex-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/P005_UsingStaticMethodsInInterfaces/P005_UsingStaticMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P005_UsingStaticMethodsInInterfaces/P005_UsingStaticMethodsInInterfaces.iml" />

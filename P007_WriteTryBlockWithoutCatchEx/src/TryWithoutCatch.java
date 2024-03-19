@@ -6,6 +6,6 @@ public class TryWithoutCatch {
         }finally {//no presence of catch block here
             System.out.println("This is the finally block"); //this executes even if there is a RuntimeException
         }
-        System.out.println("Program ended");
+        System.out.println("Program ended"); //This will never be reached
     }
 }
