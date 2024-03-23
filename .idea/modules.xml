@@ -41,6 +41,9 @@
       <module fileurl="file://$PROJECT_DIR$/P0043_InitBlockTest/P0043_InitBlockTest.iml" filepath="$PROJECT_DIR$/P0043_InitBlockTest/P0043_InitBlockTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0044_AnotherInitBlockTest/P0044_AnotherInitBlockTest.iml" filepath="$PROJECT_DIR$/P0044_AnotherInitBlockTest/P0044_AnotherInitBlockTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0045_StaticAndNonStaticInitBlockTest/P0045_StaticAndNonStaticInitBlockTest.iml" filepath="$PROJECT_DIR$/P0045_StaticAndNonStaticInitBlockTest/P0045_StaticAndNonStaticInitBlockTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0046_VariableShadowing/P0046_VariableShadowing.iml" filepath="$PROJECT_DIR$/P0046_VariableShadowing/P0046_VariableShadowing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0047_VariableHindingInParentChildClass/P0047_VariableHindingInParentChildClass.iml" filepath="$PROJECT_DIR$/P0047_VariableHindingInParentChildClass/P0047_VariableHindingInParentChildClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0048_VariableFromParentMethodFromChild/P0048_VariableFromParentMethodFromChild.iml" filepath="$PROJECT_DIR$/P0048_VariableFromParentMethodFromChild/P0048_VariableFromParentMethodFromChild.iml" />
       <module fileurl="file://$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P004_ProblemsOfUsingDefaultMethodsInInterfaces/P004_ProblemsOfUsingDefaultMethodsInInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/P005_UsingStaticMethodsInInterfaces/P005_UsingStaticMethodsInInterfaces.iml" filepath="$PROJECT_DIR$/P005_UsingStaticMethodsInInterfaces/P005_UsingStaticMethodsInInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/P006_RuntimeExceptionHandlingExample/P006_RuntimeExceptionHandlingExample.iml" filepath="$PROJECT_DIR$/P006_RuntimeExceptionHandlingExample/P006_RuntimeExceptionHandlingExample.iml" />
