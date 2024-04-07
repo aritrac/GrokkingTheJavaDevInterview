@@ -2,10 +2,10 @@ import java.io.*;
 
 public class TestSerialization {
     public static void main(String[] args) {
-        Child child = new Child(20,40);
+        Child child = new Child(5,25);
         System.out.println("x : " + child.x);
         System.out.println("y : " + child.y);
-        String file = "child1.ser";
+        String file = "child3.ser";
         serializeObject(file, child);
         deserializeObject(file);
     }
@@ -39,29 +39,28 @@ public class TestSerialization {
     }
 }
 
-class Parent {
+class Parent implements Serializable {
     int x;
     public Parent(int x){
         this.x = x;
-        System.out.println("Parent class one-arg constructor");
-    }
-
-    //The no-arg constructor is necessary for the child to be serialized
-    //even if the parent class is not defined as serializable
-    public Parent(){
-        x = 100;
-        System.out.println("Parent class no-arg constructor");
     }
 }
 
-class Child extends Parent implements Serializable {
+class Child extends Parent {
     int y;
     public Child(int x, int y){
         super(x);
-        this.y=y;
-        System.out.println("Child two-arg constructor");
+        this.y = y;
     }
-    public Child(){
-        System.out.println("Child no-arg constructor");
+    //The following two private methods make sure that Serialization behaviour is not supported
+    //Also they need to be private so only JVM can see them, and no one else can use them for security
+    //The JVM can call these private methods, but other objects cannot. Thus the integrity of the class
+    //is maintained and the serialization protocol can continue to work as normal.
+    private void writeObject(ObjectOutputStream oos) throws IOException {
+        throw new NotSerializableException("Serialization is not supported on this object");
+    }
+
+    private void readObject(ObjectInputStream ois) throws IOException {
+        throw new NotSerializableException("Serialization is not supported on this object");
     }
 }
