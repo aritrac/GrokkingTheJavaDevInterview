@@ -73,6 +73,9 @@
       <module fileurl="file://$PROJECT_DIR$/P0072_SingletonPreservationInDeserialization/P0072_SingletonPreservationInDeserialization.iml" filepath="$PROJECT_DIR$/P0072_SingletonPreservationInDeserialization/P0072_SingletonPreservationInDeserialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0073_PreventCloningInSingleton/P0073_PreventCloningInSingleton.iml" filepath="$PROJECT_DIR$/P0073_PreventCloningInSingleton/P0073_PreventCloningInSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0074_UsageOfVolatile/P0074_UsageOfVolatile.iml" filepath="$PROJECT_DIR$/P0074_UsageOfVolatile/P0074_UsageOfVolatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0075_GenericsCompileTimeTypeSafety/P0075_GenericsCompileTimeTypeSafety.iml" filepath="$PROJECT_DIR$/P0075_GenericsCompileTimeTypeSafety/P0075_GenericsCompileTimeTypeSafety.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0076_GenericsNoTypeCastingRequirement/P0076_GenericsNoTypeCastingRequirement.iml" filepath="$PROJECT_DIR$/P0076_GenericsNoTypeCastingRequirement/P0076_GenericsNoTypeCastingRequirement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0077_GenericsExample/P0077_GenericsExample.iml" filepath="$PROJECT_DIR$/P0077_GenericsExample/P0077_GenericsExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/P007_WriteTryBlockWithoutCatchEx/P007_WriteTryBlockWithoutCatchEx.iml" filepath="$PROJECT_DIR$/P007_WriteTryBlockWithoutCatchEx/P007_WriteTryBlockWithoutCatchEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" filepath="$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" filepath="$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" />
