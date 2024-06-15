@@ -92,6 +92,8 @@
       <module fileurl="file://$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" filepath="$PROJECT_DIR$/P008_MultiCatchBlockAndSingleCatchBlock/P008_MultiCatchBlockAndSingleCatchBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0090_WhyWeNeedAtomicClasses/P0090_WhyWeNeedAtomicClasses.iml" filepath="$PROJECT_DIR$/P0090_WhyWeNeedAtomicClasses/P0090_WhyWeNeedAtomicClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0091_ModifiableAndUnmodifiableList/P0091_ModifiableAndUnmodifiableList.iml" filepath="$PROJECT_DIR$/P0091_ModifiableAndUnmodifiableList/P0091_ModifiableAndUnmodifiableList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0092_DefaultCapacityOfHashMap/P0092_DefaultCapacityOfHashMap.iml" filepath="$PROJECT_DIR$/P0092_DefaultCapacityOfHashMap/P0092_DefaultCapacityOfHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0093_HashMapCapacityDoublingPastLoadFactor/P0093_HashMapCapacityDoublingPastLoadFactor.iml" filepath="$PROJECT_DIR$/P0093_HashMapCapacityDoublingPastLoadFactor/P0093_HashMapCapacityDoublingPastLoadFactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" filepath="$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" />
       <module fileurl="file://$PROJECT_DIR$/P022_ExceptionFromFinallyTakesPrecedence/P022_ExceptionFromFinallyTakesPrecedence.iml" filepath="$PROJECT_DIR$/P022_ExceptionFromFinallyTakesPrecedence/P022_ExceptionFromFinallyTakesPrecedence.iml" />
     </modules>
