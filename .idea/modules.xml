@@ -94,6 +94,11 @@
       <module fileurl="file://$PROJECT_DIR$/P0091_ModifiableAndUnmodifiableList/P0091_ModifiableAndUnmodifiableList.iml" filepath="$PROJECT_DIR$/P0091_ModifiableAndUnmodifiableList/P0091_ModifiableAndUnmodifiableList.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0092_DefaultCapacityOfHashMap/P0092_DefaultCapacityOfHashMap.iml" filepath="$PROJECT_DIR$/P0092_DefaultCapacityOfHashMap/P0092_DefaultCapacityOfHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0093_HashMapCapacityDoublingPastLoadFactor/P0093_HashMapCapacityDoublingPastLoadFactor.iml" filepath="$PROJECT_DIR$/P0093_HashMapCapacityDoublingPastLoadFactor/P0093_HashMapCapacityDoublingPastLoadFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0094_EqualsHashCodeInCustomKeyInHashMap_Sc1/P0094_EqualsHashCodeInCustomKeyInHashMap_Sc1.iml" filepath="$PROJECT_DIR$/P0094_EqualsHashCodeInCustomKeyInHashMap_Sc1/P0094_EqualsHashCodeInCustomKeyInHashMap_Sc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0095_MakeHashMapSynchronized/P0095_MakeHashMapSynchronized.iml" filepath="$PROJECT_DIR$/P0095_MakeHashMapSynchronized/P0095_MakeHashMapSynchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0096_ConcurrentHashMapDemo/P0096_ConcurrentHashMapDemo.iml" filepath="$PROJECT_DIR$/P0096_ConcurrentHashMapDemo/P0096_ConcurrentHashMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0097_TreeMapUsingWrapperClassAsKey/P0097_TreeMapUsingWrapperClassAsKey.iml" filepath="$PROJECT_DIR$/P0097_TreeMapUsingWrapperClassAsKey/P0097_TreeMapUsingWrapperClassAsKey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0098_TreeMapWhenKeyIsACustomClass/P0098_TreeMapWhenKeyIsACustomClass.iml" filepath="$PROJECT_DIR$/P0098_TreeMapWhenKeyIsACustomClass/P0098_TreeMapWhenKeyIsACustomClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" filepath="$PROJECT_DIR$/P009_WhenFinallyBlockDoesntGetCalled/P009_WhenFinallyBlockDoesntGetCalled.iml" />
       <module fileurl="file://$PROJECT_DIR$/P022_ExceptionFromFinallyTakesPrecedence/P022_ExceptionFromFinallyTakesPrecedence.iml" filepath="$PROJECT_DIR$/P022_ExceptionFromFinallyTakesPrecedence/P022_ExceptionFromFinallyTakesPrecedence.iml" />
     </modules>
