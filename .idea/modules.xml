@@ -107,6 +107,7 @@
       <module fileurl="file://$PROJECT_DIR$/P102_FailSafeIteratorsDemo/P102_FailSafeIteratorsDemo.iml" filepath="$PROJECT_DIR$/P102_FailSafeIteratorsDemo/P102_FailSafeIteratorsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/P103_FailSafeIterWithCopyOnWriteArrayListDemo/P103_FailSafeIterWithCopyOnWriteArrayListDemo.iml" filepath="$PROJECT_DIR$/P103_FailSafeIterWithCopyOnWriteArrayListDemo/P103_FailSafeIterWithCopyOnWriteArrayListDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/P104_IteratorAndListIteratorDemo/P104_IteratorAndListIteratorDemo.iml" filepath="$PROJECT_DIR$/P104_IteratorAndListIteratorDemo/P104_IteratorAndListIteratorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P105_IteratorRemoveCollectionRemove/P105_IteratorRemoveCollectionRemove.iml" filepath="$PROJECT_DIR$/P105_IteratorRemoveCollectionRemove/P105_IteratorRemoveCollectionRemove.iml" />
     </modules>
   </component>
 </project>
